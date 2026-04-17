@@ -6,4 +6,6 @@ I co-founded https://toast.ninja. My passion is to build products and productive
 
 I used to head engineering at https://junilearning.com/
 
-Currently I am building [@sharkyfi](http://sharky.fi/)
+I co-founded [@sharkyfi](http://sharky.fi/) in 2022
+
+Currently I am building [@orba-health](https://orba.health/)
